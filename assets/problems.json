@@ -1,0 +1,146 @@
+{
+    "beginner":
+    [
+        {
+            "question": "Steph gagne 15€ par heure. Du lundi au vendredi, il travaille 8 heures par jour. Le samedi, il travaille 4 heures. Combien gagne-t-il par semaine ?",
+            "proposition": [460, 520, 600, 660],
+            "answer": 660
+        },
+        {
+            "question": "Un escargot est au fond d’un puits de 10 mètres. Le jour, il monte de 3 mètres et la nuit il redescend de 2 mètres. Quand arrivera-t-il hors du puits en jours ?",
+            "proposition": [5, 8, 9, 12],
+            "answer": 8
+        },
+        {
+            "question": "Un globe planétaire est créé à une échelle de 1:15 000 000. Sur ce globe planétaire, deux lieux sont séparés par une distance de 9 cm. Quelle est la distance réelle entre ces deux lieux ?",
+            "proposition": [135, 1250, 1350, 13500],
+            "answer": 1350
+        },
+        {
+            "question": "Une voiture coûte 12.000€, une réduction de 25% est offerte sur le prix de la voiture si on achète un minimum de 2990€, en accessoires pour la voiture. La réduction s’applique uniquement au véhicule et pas aux accessoires. Léonard achète cette voiture avec 3000€ d’accessoires. Combien doit-il payer ?",
+            "proposition": [11250, 11990, 12000, 15000],
+            "answer": 12000
+        },
+        {
+            "question": "Dans ma tirelire j'ai deja 160€, ma grand-mère m'a donné 40€ pour mon anniversaire et j'ai donné 37€ à ma sœur pour m'acheter un nouveau jeu. Calculer le nouveau montant de la tirelire ?",
+            "proposition": [123, 143, 163, 183],
+            "answer": 163
+        },
+        {
+            "question": "En allant au supermarché, vous comptez 20 maisons sur votre droite et en rentrant, 20 maisons sur votre gauche. Combien y a-t-il de maisons ?",
+            "proposition": [20, 30, 40, 60],
+            "answer": 20
+        },
+        {
+            "question": "Willy arrive avec 12 minutes de retard pour le train de 14:12 de Mulhouse à Basel. Ce train démarre toutes les heures à la même heure. Combien de temps doit-il attendre pour le prochain train en minutes ?",
+            "proposition": [12, 24, 48, 60],
+            "answer": 48
+        }
+    ],
+    "intermediary":
+    [
+        {
+            "question": "C’est le concours annuel de tir au château et 218 archers sont inscrits. La règle est simple : chaque archer en affronte un autre en duel, et le perdant est éliminé. Celui qui reste à la fin est sacré champion. Combien faut-il jouer de duels au total ?",
+            "proposition": [108, 109, 217, 218],
+            "answer": 217
+        },
+        {
+            "question": "3^{2n}-2^n est divisible par : ",
+            "proposition": [2, 3, 7, 11],
+            "answer": 7
+        },
+        {
+            "question": "Clément ramasse des mégots de cigarette pour pouvoir fumer. Avec 4 mégots, il fait une cigarette. S’il ramasse 40 mégots, combien de cigarettes pourra-t-il fumer au total ?",
+            "proposition": [6, 13, 21, 35],
+            "answer": 13
+        },
+        {
+            "question": "Léonard gagne 18€ par heure. Du lundi au vendredi, il travaille 8 heures par jour. Le samedi, il travaille 6 heures, qui lui sont rémunérées à 150%. Toutes les 2 semaines, Léonard effectue 4 heures supplémentaires. Les heures supplémentaires lui sont rémunérées à 200%. Combien Léonard gagne-t-il par semaine en moyenne ?",
+            "proposition": [810, 900, 954, 1026],
+            "answer": 954
+        },
+        {
+            "question": "Mate a une piscine de 2 m de haut, 4 m de large et 6 m de long. De combien de litres d’eau a-t-il besoin pour remplir la piscine entièrement ?",
+            "proposition": [480, 4800, 48000, 480000],
+            "answer": 48000
+        },
+        {
+            "question": "313 lutins font la course. Baptiste s’aperçoit qu’il a deux fois plus de lutins devant lui que derrière lui. Quelle est la position de Baptiste dans la course ?",
+            "proposition": [209, 300, 311, 313],
+            "answer": 209
+        },
+        {
+            "question": "89, 106, 113, 118, 128,... Quel est le prochain nombre de cette suite logique ?",
+            "proposition": [134, 139, 146, 180],
+            "answer": 139
+        },
+        {
+            "question": "Si 1 est égal à 5, 2 est égal à 25, 3 à 605, 4 à 10855, 5 est égal a quoi ?",
+            "proposition": [1, 525, 15625, 78125],
+            "answer": 1
+        }
+    ],
+    "advanced":
+    [
+        {
+            "question": "Jean veut fabriquer de l’Invar. L’Invar est un alliage à très faible coefficient de dilatation, composé de 36% de nickel et de 64% de fer. Il dispose de 20 kg d’un alliage contenant 20% de nickel et 80% de fer. Il a aussi 180 kg d’un alliage à 50% de nickel et 50% de fer. Combien de kilos d’Invar peut-il produire au maximum ?",
+            "proposition": [23, 43, 54, 83],
+            "answer": 43
+        },
+        {
+            "question": "Matteo répartit 14 000€ sur 2 comptes bancaires. Le compte A produit 5% d’intérêts et le compte B donne 7% d’intérêts. À la fin de l’année, Matteo reçoit 798€. Combien Léonard a-t-il déposé sur le compte bancaire B ?",
+            "proposition": [4900, 5100, 9100, 10100],
+            "answer": 4900
+        },
+        {
+            "question": "Sam paie normalement 0,5 € pour 3 crayons. Il les vend par 2 au prix de 0,50€. En une journée, Sam fait 2,50 € de bénéfices. Combien de crayons a-t-il vendu ce jour-là ?",
+            "proposition": [30, 40, 50, 60],
+            "answer": 30
+        },
+        {
+            "question": "Léonard a 9 ans de moins que 3 fois l’âge d’Archimède. Il y a 4 ans, il avait 10 ans de plus que 2 fois l’âge d’Archimède. Quel est l’âge de Léonard ?",
+            "proposition": [15, 36, 44, 56],
+            "answer": 36
+        },
+        {
+            "question": "Ben a 3 robinets sur sa baignoire. S’il ouvre seulement le robinet 1 à fond, la baignoire se remplit complètement en 10 minutes. S’il ouvre seulement le robinet 2, il faut 15 minutes pour que la baignoire se remplisse. S’il ouvre seulement le robinet 3, la baignoire se remplit en 30 minutes. Si Ben ouvre complètement tous les robinets, combien de temps faut-il pour que la baignoire se remplisse ?",
+            "proposition": [3, 5, 7, 10],
+            "answer": 5
+        },
+        {
+            "question": "Un avion parcourt 800 km avec le vent dans le dos. Avec la même puissance et pendant la même durée, il parcourait 720 km contre le vent. Le vent souffle à 30 km/h. Quelle est la vitesse de l’avion sans vent ?",
+            "proposition": [42, 570, 760, 770],
+            "answer": 570
+        },
+        {
+            "question": "Platon a un âge en jours approximativement égal à l’âge d’Aristote en semaines. L’âge de Platon en mois est identique à l’âge de Léonard en années. Platon, Aristote et Léonard totalisent ensemble un âge de 140 ans. Quel est l’âge de Léonard ? (En partant du principe que 1 an = 12 mois = 52 semaines = 365 jours)",
+            "proposition": [46, 56, 84, 86],
+            "answer": 84
+        },
+        {
+            "question": "Léonard nettoie ses toilettes tous les lundis et passe l’aspirateur tous les cinq jours. Aujourd’hui, il doit à la fois nettoyer ses toilettes et passer l’aspirateur. Combien de jours faudra-t-il avant qu’il ne doive à nouveau nettoyer ses toilettes et passer l’aspirateur le même jour ?",
+            "proposition": [7, 25, 35, 70],
+            "answer": 35
+        },
+        {
+            "question": "Claude vend une invention pour 1650€. Le client peut payer en 3 fois. Le premier paiement correspond à 2/5e du montant total. La deuxième fois, il paie la moitié du montant restant. Combien Léonard recevra-t-il lors du dernier paiement ?",
+            "proposition": [165, 445, 495, 550],
+            "answer": 495
+        },
+        {
+            "question": "Léonard prend à nouveau le volant de sa Bugatti Veyron. Il roule une nouvelle fois de Pise à Milan à une vitesse moyenne de 380 km/h. Le trajet dure 3 quarts d’heure. Au retour, il est pris dans un nouvel embouteillage. Il lui faut 1h30 pour parcourir les 10 km de bouchon. Ensuite, à cause des ralentissements, il circule à une vitesse de 40 km/h sur un tronçon de 60 km. Léonard peut ensuite poursuivre sa route normalement. Sa vitesse moyenne mesurée sur les trajets de l’aller et du retour est de 114 km/h au total. Au retour, quelle est sa vitesse moyenne sur le tronçon sans embouteillage et sans ralentissements ?",
+            "proposition": [133, 172, 215, 380],
+            "answer": 172
+        },
+        {
+            "question": "Nommez un nombre à 3 chiffres pour lequel, lorsque vous inversez les chiffres des dizaines et des centaines, le nombre obtenu est 20% plus grand que le nombre original",
+            "proposition": [440, 450, 540, 880],
+            "answer": 450
+        },
+        {
+            "question": "Léonard voit 23 bateaux à Venise. 2 de ces bateaux transportent 14 personnes chacun. Sur 1/3 des bateaux restants, il y a 4 personnes par bateau. Sur la moitié des bateaux qui restent encore, il y a 3 personnes par bateau. Chacun des bateaux restants transporte 2 personnes. Au total, combien de personnes y a-t-il sur l’ensemble des bateaux ?",
+            "proposition": [63, 84, 91, 98],
+            "answer": 84
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "level1":
+    {
+        "numberQuestion": 3,
+        "numberSubBossQuestion": 2,
+        "numberBossQuestion": 1,
+        "easy":
+        {
+            "numberMin":0,
+            "numberMax":20,
+            "operatorsUse":["+", "-"],
+            "negativeNumbers":false,
+            "minTime":1,
+            "maxTime":1,
+            "minDivide":1,
+            "maxDivide":1,
+            "maxPow":1,
+            "questionTypes": ["answer_2v", "fill_2v"]
+        },
+        "normal":
+        {
+            "numberMin":0,
+            "numberMax":30,
+            "operatorsUse":["+", "-", "*"],
+            "negativeNumbers":false,
+            "minTime":0,
+            "maxTime":5,
+            "minDivide":1,
+            "maxDivide":1,
+            "maxPow":1,
+            "questionTypes": ["answer_2v", "fill_2v"]
+        },
+        "hard":
+        {
+            "numberMin":0,
+            "numberMax":60,
+            "operatorsUse":["+", "-", "*"],
+            "negativeNumbers":false,
+            "minTime":0,
+            "maxTime":10,
+            "minDivide":1,
+            "maxDivide":1,
+            "maxPow":1,
+            "questionTypes": ["answer_2v", "fill_2v", "answer_3v", "fill_3v"]
+        }
+    },
+    "level2":
+    {
+        "numberQuestion": 6,
+        "numberSubBossQuestion": 2,
+        "numberBossQuestion": 1,
+        "easy":
+        {
+            "numberMin":0,
+            "numberMax":80,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":false,
+            "minTime":1,
+            "maxTime":10,
+            "minDivide":2,
+            "maxDivide":10,
+            "maxPow":1,
+            "questionTypes": ["answer_3v", "fill_3v", "answer_4v"]
+        },
+        "normal":
+        {
+            "numberMin":0,
+            "numberMax":90,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":true,
+            "minTime":1,
+            "maxTime":10,
+            "minDivide":2,
+            "maxDivide":10,
+            "maxPow":1,
+            "questionTypes": ["answer_3v", "fill_3v", "answer_4v", "fill_4v"]
+        },
+        "hard":
+        {
+            "numberMin":0,
+            "numberMax":110,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":true,
+            "minTime":1,
+            "maxTime":10,
+            "minDivide":2,
+            "maxDivide":10,
+            "maxPow":2,
+            "questionTypes": ["answer_3v", "fill_3v", "answer_4v", "fill_4v"]
+        }
+    },
+
+    "level3":
+    {
+        "numberQuestion": 10,
+        "numberSubBossQuestion": 2,
+        "numberBossQuestion": 1,
+        "easy":
+        {
+            "numberMin":0,
+            "numberMax":333,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":true,
+            "minTime":1,
+            "maxTime":15,
+            "minDivide":2,
+            "maxDivide":15,
+            "maxPow":2,
+            "questionTypes": ["answer_4v", "fill_4v", "answer_power", "fill_power"]
+        },
+        "normal":
+        {
+            "numberMin":0,
+            "numberMax":666,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":true,
+            "minTime":1,
+            "maxTime":10,
+            "minDivide":2,
+            "maxDivide":10,
+            "maxPow":3,
+            "questionTypes": ["answer_4v", "fill_4v", "answer_square_root","answer_power", "fill_power"]
+        },
+        "hard":
+        {
+            "numberMin":0,
+            "numberMax":1000,
+            "operatorsUse":["+", "-", "*", "/"],
+            "negativeNumbers":true,
+            "minTime":1,
+            "maxTime":20,
+            "minDivide":2,
+            "maxDivide":20,
+            "maxPow":3,
+            "questionTypes": ["answer_4v", "fill_4v", "answer_square_root", "fill_square_root", "answer_power", "fill_power"]
+        }
+    }
+}
