@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MathsMind</string>
+    <string name="error">Erreur</string>
+
+    <string name="google_cloud_server_client_id">36814241451-jpnp95ftr7vr33e8r31p2h7ugtd221hq.apps.googleusercontent.com</string>
+    <string name="arrow_left_descr">Flèche vers la gauche</string>
+    <string name="arrow_right_descr">Flèche vers la droite</string>
+    <string name="arrow_up_descr">Flèche vers le dessus</string>
+    <string name="maths_mind">MATHS MIND</string>
+    <string name="nouvelle_partie">Nouvelle Partie</string>
+    <string name="charger_partie">Charger Partie</string>
+    <string name="statistiques">Statistiques</string>
+    <string name="options">Options</string>
+    <string name="quitter">Quitter</string>
+
+    <string name="niveau_son">Niveau du son</string>
+    <string name="luminosite">Luminosité</string>
+    <string name="vibrations">Vibrations</string>
+    <string name="langue">Langue</string>
+    <string name="langues">Changer de langue</string>
+    <string name="compte">Compte</string>
+    <string name="changer_compte">Se déconnecter</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Question dialog -->
+    <string name="btn_answer">Valider</string>
+    <string name="btn_out">Quitter</string>
+
+    <!-- End game activity -->
+    <string name="end_game">Fin de la partie</string>
+    <string name="your_score">Votre score est :</string>
+
+    <!-- End game online activity -->
+    <string name="opponent_score">Le score de votre adversaire est :</string>
+
+    <!-- Ask level -->
+    <string name="ask_level_title">Choix du niveau</string>
+
+    <!-- Save level -->
+    <string name="no_level_save">Aucun niveau n\'est enregistré</string>
+    <string name="file_level">save_level</string>
+    <string name="num_level">numLevel</string>
+    <string name="num_act_quest">numActualQuestion</string>
+    <string name="score">score</string>
+    <string name="title_activity_online">OnlineActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- Invitation -->
+    <string name="invitation_sender">Expéditeur : </string>
+    <string name="invitation_duration">Durée : </string>
+    <string name="invitation_validate">Valider</string>
+
+    <!-- Invite -->
+    <string name="invite_title">Invitez vos amis</string>
+    <string name="invite_email">Rentrez l\'email de votre adversaire :</string>
+    <string name="invite_duration">Durée de la partie (en minute) :</string>
+
+    <!-- On going game -->
+    <string name="on_going_opponent">Adversaire : </string>
+    <string name="on_going_end">Fin : </string>
+    <string name="on_going_launch">Lancer</string>
+</resources>
